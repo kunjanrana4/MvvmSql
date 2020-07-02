@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MvvmSql</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="user_id">ID</string>
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+    <string name="enter">Enter</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
